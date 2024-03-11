@@ -12,7 +12,7 @@ With a constant pace of learning I want to grow professionally as well. <br><br>
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning fullstack web development<br>🖥️ I'm looking for job opportunities in frontend development<br> <a href="https://pluffy.in/">Hey, this is my portfolio.</a>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning fullstack web development<br>🖥️ I'm looking for job opportunities in frontend development<br> 🔗 <a href="https://pluffy.in/">Check out my dev portfolio.</a>
 
 ###
 
