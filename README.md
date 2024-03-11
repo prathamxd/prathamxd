@@ -3,6 +3,9 @@
 ###
 
 <p align="left">My name is Pratham Kumar Luker and I'm a frontend developer, from Delhi, India</p>
+<br>
+I've been enjoying frontend development because as a developer I want to be able to create anything I can think of, that's why I chose this field of work.
+With a constant pace of learning I want to grow professionally as well. <br> So if you're Hiring, let's connect!
 
 ###
 
