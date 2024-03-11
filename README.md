@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning fullstack web development<br>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning fullstack web development<br>🖥️ I'm looking for job opportunities in frontend development<br>
 
 ###
 
