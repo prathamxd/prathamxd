@@ -3,8 +3,8 @@
 ###
 
 <p align="left">My name is Pratham Kumar Luker and I'm a frontend developer, from Delhi, India</p>
-I've been enjoying frontend development because as a developer I want to be able to create anything I can think of, that's why I chose this field of work.
-With a constant pace of learning I want to grow professionally as well. <br><br> So if you're Hiring, let's connect!
+I’m passionate about software development because it allows me to bring ideas to life through code. The ability to create anything I envision is what drives me in this field.
+With a strong focus on continuous learning and growth, I strive to enhance my skills and contribute meaningfully to impactful projects. <br><br> 🚀 Looking for a skilled frontend developer? Let’s connect!
 
 ###
 
@@ -12,7 +12,7 @@ With a constant pace of learning I want to grow professionally as well. <br><br>
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning fullstack web development<br>🖥️ I'm looking for job opportunities in frontend development<br> 🔗 <a href="https://pluffy.in/">Check out my dev portfolio.</a>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning fullstack web development<br>🖥️ I'm looking for job opportunities in frontend development<br> 🔗 <a href="https://pluffy.xyz/">Check out my dev portfolio.</a>
 
 ###
 
