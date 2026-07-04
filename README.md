@@ -6,10 +6,7 @@ I'm currently doing my M.E. in Cloud Computing at Chandigarh University. I like 
 <br><br> Outside of code, I'm into hiking, nature, and philosophy.
 <p align="left">I write up my projects at <a href="https://pluffy.cloud/">pluffy.cloud</a>
 <h2 align="left">I code with</h2>
-###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="40" alt="aws logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -24,4 +21,3 @@ I'm currently doing my M.E. in Cloud Computing at Chandigarh University. I like 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-###
