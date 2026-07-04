@@ -8,7 +8,7 @@ I'm currently doing my M.E. in Cloud Computing at Chandigarh University. I like 
 <h2 align="left">I code with</h2>
 ###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo](https://cdn.jsdelivr.net/npm/@aws-sdk/core@3.974.27/dist-cjs/index.min.js)"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
