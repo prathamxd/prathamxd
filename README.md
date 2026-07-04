@@ -3,7 +3,7 @@
 <p align="left">My name is Pratham Kumar Luker, based in Delhi, India</p>
 I'm currently doing my M.E. in Cloud Computing at Chandigarh University. I like building things — mostly cloud infrastructure on AWS and full-stack apps with React/Next.js. Lately I've been deep in Terraform, setting up things like threat detection pipelines and serverless automation, just to understand how it all fits together end to end.
 <br><br> Outside of code, I'm into hiking, nature, and philosophy.
-<p align="left">📄 I write up my projects at <a href="https://pluffy.cloud/">pluffy.cloud</a>
+<br><br><p align="left">I write up my projects at <a href="https://pluffy.cloud/">pluffy.cloud</a>
 ###
 <h2 align="left">I code with</h2>
 ###
